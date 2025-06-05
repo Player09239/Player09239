@@ -1,6 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=Player09239)](https://github.com/ryo-ma/github-profile-trophy)
 Asian American Javascript Discord Bot Developer
-
-> Working on a Economic Bot
 
 Add me on discord!: chaos_09239
 Join my discord!: https://discord.gg/sbn92te3QS
