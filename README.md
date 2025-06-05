@@ -2,7 +2,7 @@ Asian American Javascript Discord Bot Developer
 
 > Working on a Economic Bot
 
-Add me on discord!: chaos_09239
+Add me on discord!: chaos_09239\n
 Join my discord!: https://discord.gg/sbn92te3QS
 
 <!---
