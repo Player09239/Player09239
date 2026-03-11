@@ -2,10 +2,11 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Player09239&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Player09239&layout=compact&theme=radical)
 
-I program in JS, TS, and Lua
-I major JS
+### Languages 
+JavaScript (Major), TypeScript, Lua 
 
-Add me on discord: chaos_09239
+### Socials 
+Discord: chaos_09239
 
 
 <!---
