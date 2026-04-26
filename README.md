@@ -3,10 +3,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Player09239&layout=compact&theme=radical)
 
 ### Languages 
-JavaScript (Major), TypeScript, Lua 
+- JavaScript (Main)
+- TypeScript
+- Python (Barely)
+- Java (Secondary)
+- Lua
 
 ### Socials 
-Discord: chaos_09239
+- Discord: chaos_09239
 
 
 <!---
