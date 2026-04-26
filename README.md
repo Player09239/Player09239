@@ -4,10 +4,13 @@
 
 ### Languages 
 - JavaScript (Main)
+    - discord.js
 - TypeScript
 - Python (Barely)
+    - pygame
 - Java (Secondary)
 - Lua
+    - Luau
 
 ### Socials 
 - Discord: chaos_09239
